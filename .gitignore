@@ -1,0 +1,7 @@
+/_build
+/deps
+/inbox
+/archive
+erl_crash.dump
+*.ez
+*.beam
