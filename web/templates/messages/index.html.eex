@@ -1,15 +1,17 @@
-<!--
-<%= Enum.map @messages, fn({folder, group_map}) -> %>
-  <span><%= folder %></span>
-  <%= Enum.map group_map, fn({group, messages}) -> %>
-    <span><%= group %> (<%= Enum.count messages %> messages)</span>
-    <%= Enum.map messages, fn(message) -> %>
-      <span><a href="/messages/<%= message[:permalink] %>">"<%= message[:subject] %>"</a></span>
-    <% end %>
-  <% end %>
-<% end %>
--->
+<div class='row'>
+  <div class='intro col-md-12'>
+    <p>Welcome to your personal ship-based HOLONET Mail Relay! From time to time when you are docked at any HOLONET-capable spaceport, this program will pick up new messages sent to your interest groups. This includes all messages sent to this ship as well as periodic items of interest related to your journeys through the galaxy!</p>
 
-<%= Enum.map @messages, fn({folder, group_map}) ->
-  render "index_group.html", folder: folder, group_map: group_map
-end %>
+    <p>If your terminal is without a full 210-key Galactic Basic keyboard or your species is incapable of using them, a number of handy links have been provided that <a href="#">look like this</a>.</p>
+
+    <p>Have fun!</p>
+
+    <p>LICENSED TO: Trex for use on KraytFang, (shipregistry.civilian.AS#12N^:Trex@KraytFang)</p>
+  </div>
+</div>
+
+<%= Enum.map @messages, fn({folder, group_map}) -> %>
+  <%= unless Enum.empty?(group_map) do
+    render "index_group.html", folder: folder, group_map: group_map
+  end %>
+<% end %>

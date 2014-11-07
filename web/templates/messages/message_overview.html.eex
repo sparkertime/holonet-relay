@@ -1,1 +1,1 @@
-<span><a href="/messages/<%= @message[:permalink] %>">"<%= @message[:subject] %>"</a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%= @message[:subject]%> - <a href="/messages/<%= @message[:permalink] %>">Read More</a>

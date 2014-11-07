@@ -1,6 +1,6 @@
 defmodule HolonetRelay.Messages do
   def all do
-    Enum.into ["inbox", "archive"], %{}, fn(dir) -> {dir, messages_in_directory(dir)} end
+    Enum.into ["inbox", "archive"], [], fn(dir) -> {dir, messages_in_directory(dir)} end
   end
 
   def messages_in_directory(directory) do

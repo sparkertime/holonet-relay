@@ -12,7 +12,6 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
   background-image: url('/images/footer_basic.png');
   background-repeat: no-repeat;
   background-position: center;
@@ -32,10 +31,20 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   height: 25px;
+  margin-bottom: 40px;
 }
 
 a, a:visited, a:hover, a:active {
-  background-color: #0f0;
+  background-color: #0d0;
   color: #000;
   text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover, a:active {
+  background-color: #0f0;
+}
+
+.group {
+  margin-top: 50px;
 }
