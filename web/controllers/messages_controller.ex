@@ -4,7 +4,7 @@ defmodule HolonetRelay.MessagesController do
   plug :action
 
   def index(conn, _params) do
-    render conn, "index", messages: HolonetRelay.Messages.all
+    render conn, "index", folders: HolonetRelay.Messages.folders
   end
 
   def show(conn, _params) do

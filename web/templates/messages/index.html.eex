@@ -10,8 +10,8 @@
   </div>
 </div>
 
-<%= Enum.map @messages, fn({folder, group_map}) -> %>
-  <%= unless Enum.empty?(group_map) do
-    render "index_group.html", folder: folder, group_map: group_map
+<%= Enum.map @folders, fn(folder) -> %>
+  <%= unless folder[:message_count] == 0 do
+    render "folder.html", folder: folder
   end %>
 <% end %>

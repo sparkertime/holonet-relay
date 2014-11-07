@@ -1,6 +1,6 @@
 <div class='group row'>
   <div class="col-xs-12">
-    <%= @folder %>
+    <%= @folder[:folder] %>
   </div>
 </div>
 
@@ -10,17 +10,17 @@
   </div>
 </div>
 
-<%= Enum.map @group_map, fn({group, messages}) -> %>
+<%= Enum.map @folder[:groups], fn(group) -> %>
   <div class='row'>
     <div class="col-xs-12">
       &nbsp;&nbsp;&nbsp;&nbsp;
-      |--> <%= group %> (<%= Enum.count messages %> messages)
+      |--> <%= group[:group] %> (<%= group[:message_count] %> messages)
     </div>
   </div>
   <div class='row'>
     <div class="col-xs-12">
-      <%= Enum.map messages, fn(message) ->
-        render "message_overview.html", message: message
+      <%= Enum.map group[:message_overviews], fn(message_overview) ->
+        render "message_overview.html", message_overview: message_overview
       end %>
     </div>
   </div>
