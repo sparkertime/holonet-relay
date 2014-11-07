@@ -7,25 +7,23 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Hello Phoenix!</title>
-    <link rel="stylesheet" href="/css/phoenix.css">
+    <title>HOLONET MAIL RELAY 2.0.6</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/holonet.css">
+    <script src='/js/bootstrap.min.js'></script>
   </head>
 
   <body>
-    <div class="container">
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li><a href="https://github.com/phoenixframework/phoenix">Get Started</a></li>
-        </ul>
-        <span class="logo"></span>
-      </div>
+    <header></header>
 
+    <div class='container'>
       <%= @inner %>
+    </div>
 
-      <div class="footer">
-        <p><a href="http://phoenixframework.org">phoenixframework.org</a></p>
-      </div>
-
-    </div> <!-- /container -->
+     <div class="footer">
+       <div class="container">
+       </div>
+     </div>
   </body>
 </html>

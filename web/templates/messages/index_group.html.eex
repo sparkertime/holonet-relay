@@ -1,0 +1,23 @@
+<div class='group row'>
+  <div class="col-xs-12">
+    <%= @folder %>
+  </div>
+</div>
+
+<div class='group row'>
+  <div class="col-xs-11">
+    |--> Groups
+  </div>
+</div>
+
+<%= Enum.map @group_map, fn({group, messages}) -> %>
+  <div class='row'>
+  <div class="col-xs-11">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    |--> <%= group %> (<%= Enum.count messages %> messages)
+      <%= Enum.map messages, fn(message) ->
+        render "message_overview.html", message: message
+      end %>
+    </div>
+  </div>
+<% end %>

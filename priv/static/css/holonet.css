@@ -1,0 +1,41 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  background-image: url('/images/footer_basic.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60px;
+}
+
+body {
+  font-family: 'PT Mono', Courier, serif;
+  font-size: 20px;
+  background-color: #000;
+  color: #fff;
+}
+
+header {
+  background-color: #fff;
+  background-image: url('/images/header_basic.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 25px;
+}
+
+a, a:visited, a:hover, a:active {
+  background-color: #0f0;
+  color: #000;
+  text-decoration: none;
+}
