@@ -12,6 +12,10 @@
 
 <%= Enum.map @folders, fn(folder) -> %>
   <%= unless folder[:message_count] == 0 do
-    render "folder.html", folder: folder
+    if folder == @open_folder do
+      render "open_folder.html", folder: folder, groups: @groups
+    else
+      render "closed_folder.html", folder: folder
+    end
   end %>
 <% end %>

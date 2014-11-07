@@ -5,7 +5,8 @@ defmodule HolonetRelay.Router do
     # Use the default browser stack.
     pipe_through :browser
 
-    get "/", HolonetRelay.MessagesController, :index
-    get "/messages/:id", HolonetRelay.MessagesController, :show
+    get "/messages/:permalink", HolonetRelay.MessagesController, :show
+    get "/:folder", HolonetRelay.FoldersController, :show
+    get "/", HolonetRelay.PagesController, :index
   end
 end

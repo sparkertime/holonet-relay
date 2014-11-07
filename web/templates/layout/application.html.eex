@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/holonet.css">
-    <script src='/js/bootstrap.min.js'></script>
   </head>
 
   <body>

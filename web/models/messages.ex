@@ -5,9 +5,7 @@ defmodule HolonetRelay.Messages do
 
       %{folder: folder,
         path: path,
-        message_count: message_count(path),
-        groups: groups(path),
-      }
+        message_count: message_count(path)}
     end
   end
 
@@ -20,8 +18,7 @@ defmodule HolonetRelay.Messages do
       %{group: group,
         path: path,
         message_count: message_count(path),
-        message_overviews: message_overviews(path)
-      }
+        message_overviews: message_overviews(path)}
     end
   end
 
@@ -33,8 +30,7 @@ defmodule HolonetRelay.Messages do
 
       %{permalink: String.replace(message_file, ~r/.txt/, ""),
         path: path,
-        subject: message_subject(path)
-      }
+        subject: message_subject(path)}
     end
   end
 
@@ -47,6 +43,6 @@ defmodule HolonetRelay.Messages do
   end
 
   def message_count(base_path) do
-    Enum.count(Path.wildcard([base_path, "/**/", "*.md"]))
+    Enum.count(Path.wildcard([base_path, "/**/", "*.txt"]))
   end
 end

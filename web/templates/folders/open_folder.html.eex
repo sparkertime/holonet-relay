@@ -10,7 +10,7 @@
   </div>
 </div>
 
-<%= Enum.map @folder[:groups], fn(group) -> %>
+<%= Enum.map @groups, fn(group) -> %>
   <div class='row'>
     <div class="col-xs-12">
       &nbsp;&nbsp;&nbsp;&nbsp;

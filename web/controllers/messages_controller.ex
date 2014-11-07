@@ -3,11 +3,7 @@ defmodule HolonetRelay.MessagesController do
 
   plug :action
 
-  def index(conn, _params) do
-    render conn, "index", folders: HolonetRelay.Messages.folders
-  end
-
   def show(conn, _params) do
-    render conn, "show"
+    render conn, "show", folders: HolonetRelay.Messages.folders
   end
 end

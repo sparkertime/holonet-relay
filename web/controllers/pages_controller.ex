@@ -1,7 +1,11 @@
-defmodule HolonetRelay.ErrorController do
+defmodule HolonetRelay.PagesController do
   use Phoenix.Controller
 
   plug :action
+
+  def index(conn, _params) do
+    redirect conn, HolonetRelay.Router.Helpers.folders_path(:show, "inbox")
+  end
 
   def not_found(conn, _params) do
     render conn, "not_found"

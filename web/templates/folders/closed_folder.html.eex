@@ -1,0 +1,5 @@
+<div class='group row'>
+  <div class="col-xs-12">
+    <a href="/<%= @folder[:folder] %>"><%= @folder[:folder]%></a> (<%= @folder[:message_count] %> messages)
+  </div>
+</div>
