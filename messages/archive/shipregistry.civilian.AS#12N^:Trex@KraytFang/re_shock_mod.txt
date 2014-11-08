@@ -1,0 +1,22 @@
+groups: shipregistry.civilian.AS#12N^
+senderkey: *KgGgg$:0:510/133
+mode: promiscuous
+receivedby: Lambda:Ando:QuantillStarport
+datereceived: 37:12:08
+subject: Re: shock mod?
+------
+Mr. Trex:
+
+Responses inline.
+
+>> okay, while i still want you to try the shock bullet idea, if thats redicilous i am fine with a shock bayonet.
+
+Non-lethal long-range shock bullets would be quite the trick, I just can’t think of a way to make that work. I can recommend a few models of sonic rifle for that need. Instead, we’ll begin work on an under-rifle shock bayonet that will work nicely when you want incapacitation at short range.
+
+>> next job is bringing in quite a bit extra and i expect to be there in a few weeks time to settle up.
+
+No worries, your advance covers the initial work. We’ll see you soon.
+
+We value your business.
+Armos’ Arms of Abregado-rae
+reply-to commercial.core.abregado-rae.M%R9!0X:ArmosArms

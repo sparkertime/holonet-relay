@@ -1,0 +1,10 @@
+groups: shipregistry.civilian.AS#12N^
+senderkey: gn%_xCL:6:199/5
+mode: promiscuous
+receivedby: Lambda:Ando:QuantillStarport
+datereceived: 37:12:04
+subject: mos shuuta pickup
+------
+fyi - teemo just sent notice that there will be an extra load of 4-5 on mos shuuta. don’t know the story but he’s eager to dump this lot which means a better cut for us. there’s another twi’lek in the bunch so don’t confuse her with the other 4, haha!
+
+you can sell them anywhere, standard split. 4 other twileks come home as discussed. i think krayt has capacity for this, but if not, lose a few unregistereds before hyper.
