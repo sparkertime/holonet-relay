@@ -11,6 +11,15 @@ To start:
 
 Now you can visit `localhost:4000` from your browser.
 
+## Deploying to Heroku
+
+```
+> heroku app:create YOURNAMEHERE
+> heroku stack:set cedar #phoenix is not yet Cedar-14 compatible
+> heroku config:add MIX_ENV=prod BUILDPACK_URL=https://github.com/HashNuke/heroku-buildpack-elixir.git#cedar-14-unzip-fix
+> git push heroku master
+```
+
 ## Adding new messages
 
 The mail reader divides messages as follows:
