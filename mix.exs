@@ -22,7 +22,7 @@ defmodule HolonetRelay.Mixfile do
   #
   # Type `mix help deps` for examples and options
   defp deps do
-    [{:phoenix,  "0.5.0"},
+    [{:phoenix, github: "phoenixframework/phoenix", branch: "master"},
      {:cowboy,   "~> 1.0"},
      {:earmark, "~> 0.1"}]
   end

@@ -5,6 +5,6 @@ defmodule HolonetRelay.MessagesController do
 
   def show(conn, params) do
     message = HolonetRelay.Messages.message(params["permalink"])
-    render conn, "show", message: message
+    render conn, "show.html", message: message
   end
 end

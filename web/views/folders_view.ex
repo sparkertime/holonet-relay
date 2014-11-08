@@ -1,4 +1,4 @@
 defmodule HolonetRelay.FoldersView do
-  use HolonetRelay.Views
+  use HolonetRelay.View
 
 end

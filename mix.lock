@@ -4,7 +4,7 @@
   "earmark": {:package, "0.1.10"},
   "ecto": {:package, "0.2.5"},
   "linguist": {:package, "0.1.2"},
-  "phoenix": {:package, "0.5.0"},
+  "phoenix": {:git, "git://github.com/phoenixframework/phoenix.git", "dd21cda538a96adeb6233645993c20cba42709c7", [branch: "master"]},
   "plug": {:package, "0.8.2"},
   "poison": {:package, "1.2.0"},
   "poolboy": {:package, "1.2.1"},

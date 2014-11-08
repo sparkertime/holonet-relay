@@ -1,3 +1,3 @@
 defmodule HolonetRelay.MessagesView do
-  use HolonetRelay.Views
+  use HolonetRelay.View
 end

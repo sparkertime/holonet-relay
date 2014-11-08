@@ -1,5 +1,5 @@
 defmodule HolonetRelay.LayoutView do
-  use HolonetRelay.Views
+  use HolonetRelay.View
 
   def last_updated_at do
     {year, month, day} = HolonetRelay.Messages.newest_timestamp
