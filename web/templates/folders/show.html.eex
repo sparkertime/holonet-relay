@@ -1,12 +1,12 @@
 <div class='row'>
   <div class='intro col-md-12'>
-    <p>Welcome to your personal ship-based HOLONET Mail Relay! From time to time when you are docked at any HOLONET-capable spaceport, this program will pick up new messages sent to your interest groups. This includes all messages sent to this ship as well as periodic items of interest related to your journeys through the galaxy!</p>
+    <p>Welcome to your personal ship-based HOLONET Mail Relay! From time to time when you are docked at a HOLONET-capable spaceport, this program will gather new messages sent to your interest groups. Your interest groups include all messages sent to this ship as well as periodic items related to your journeys throughout the galaxy!</p>
 
-    <p>If your terminal is without a full 210-key Galactic Basic keyboard or your species is incapable of using them, a number of handy links have been provided that <a href="#">look like this</a>.</p>
+    <p>If your terminal is without a full 210-key Galactic Basic keyboard or your species is incapable of using one, navigational links have been provided that <a href="#">look like this</a>.</p>
 
     <p>Have fun!</p>
 
-    <p>LICENSED TO: Trex for use on KraytFang, (shipregistry.civilian.AS#12N^:Trex@KraytFang)</p>
+    <p>LICENSED TO: <%= @license %></p>
   </div>
 </div>
 

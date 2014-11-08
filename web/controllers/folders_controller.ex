@@ -8,6 +8,10 @@ defmodule HolonetRelay.FoldersController do
     open_folder = Enum.find folders, fn (x) -> x[:folder] == params["folder"] end
     groups = HolonetRelay.Messages.groups(open_folder[:path])
 
-    render conn, "show", folders: HolonetRelay.Messages.folders, open_folder: open_folder, groups: groups
+    render conn, "show",
+      folders: HolonetRelay.Messages.folders,
+      open_folder: open_folder,
+      groups: groups,
+      license: HolonetRelay.License.license_text
   end
 end

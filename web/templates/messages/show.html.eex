@@ -1,0 +1,20 @@
+<div class='row'>
+  <div class='intro col-md-12'>
+    <a href="/<%= @message[:folder] %>">return to <%= @message[:folder] %></a>
+  </div>
+</div>
+
+<div class='message row'>
+  <div class='intro col-md-12'>
+    <p>
+      <%= Enum.map @message[:lines], fn(line) -> %>
+        <%= line %><br />
+      <% end %>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='intro col-md-12'>
+    <a href="/<%= @message[:folder] %>">return to <%= @message[:folder] %></a>
+  </div>
+</div>

@@ -34,15 +34,25 @@ defmodule HolonetRelay.Messages do
     end
   end
 
-  def message_subject(message_path) do
-    message_lines = File.stream!(message_path) |> Enum.map &String.strip/1
+  def message(permalink) do
+    [message_path] = Path.wildcard(["messages/**/", permalink, ".txt"])
+    folder = Enum.at(String.split(message_path, "/"), 1)
 
-    Enum.find(message_lines, fn(x) -> String.starts_with?(x, "subject: ") end)
+    %{folder: folder,
+      lines: message_lines(message_path)}
+  end
+
+  def message_subject(message_path) do
+    Enum.find(message_lines(message_path), fn(x) -> String.starts_with?(x, "subject: ") end)
       |> String.replace("subject:", "")
       |> String.strip
   end
 
   def message_count(base_path) do
     Enum.count(Path.wildcard([base_path, "/**/", "*.txt"]))
+  end
+
+  def message_lines(message_path) do
+    File.stream!(message_path) |> Enum.map &String.strip/1
   end
 end

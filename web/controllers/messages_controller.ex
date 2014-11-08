@@ -3,7 +3,8 @@ defmodule HolonetRelay.MessagesController do
 
   plug :action
 
-  def show(conn, _params) do
-    render conn, "show", folders: HolonetRelay.Messages.folders
+  def show(conn, params) do
+    message = HolonetRelay.Messages.message(params["permalink"])
+    render conn, "show", message: message
   end
 end

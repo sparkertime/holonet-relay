@@ -48,3 +48,8 @@ a:hover, a:active {
 .group {
   margin-top: 50px;
 }
+
+.message {
+  margin-top:    20px;
+  margin-bottom: 20px;
+}
