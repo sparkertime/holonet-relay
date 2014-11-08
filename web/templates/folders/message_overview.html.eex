@@ -1,1 +1,1 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%= @message_overview[:subject]%> - <a href="/messages/<%= @message_overview[:permalink] %>">Read More</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%= @message_overview[:subject]%> - <a href="/messages/<%= @message_overview[:permalink] %>">Read More</a><br/>

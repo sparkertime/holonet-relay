@@ -43,7 +43,9 @@ defmodule HolonetRelay.Messages do
   end
 
   def message_subject(message_path) do
-    Enum.find(message_lines(message_path), fn(x) -> String.starts_with?(x, "subject: ") end)
+    subject_line = Enum.find(message_lines(message_path), fn(x) -> String.starts_with?(x, "subject: ") end) || "(None)"
+
+    subject_line
       |> String.replace("subject:", "")
       |> String.strip
   end
@@ -54,5 +56,17 @@ defmodule HolonetRelay.Messages do
 
   def message_lines(message_path) do
     File.stream!(message_path) |> Enum.map &String.strip/1
+  end
+
+  def newest_timestamp do
+    all_groups = Path.wildcard("messages/*/*")
+
+    timestamps = Enum.map all_groups, fn(group) ->
+      {:ok, file_stat} = File.stat(group)
+      {date, _} = Map.fetch!(file_stat, :ctime)
+      date
+    end
+
+    Enum.max(timestamps)
   end
 end

@@ -21,6 +21,7 @@
     </div>
 
      <div class="footer">
+       <div class='timestamp'>(Last Update: <%= last_updated_at %>)</div>
        <div class="container">
        </div>
      </div>

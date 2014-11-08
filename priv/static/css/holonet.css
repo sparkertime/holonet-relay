@@ -14,8 +14,9 @@ body {
   width: 100%;
   background-image: url('/images/footer_basic.png');
   background-repeat: no-repeat;
-  background-position: center;
-  height: 60px;
+  background-position: center bottom;
+  height: 70px;
+  text-align: center;
 }
 
 body {
