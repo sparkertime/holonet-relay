@@ -12,6 +12,6 @@ defmodule HolonetRelay.FoldersController do
       folders: HolonetRelay.Messages.folders,
       open_folder: open_folder,
       groups: groups,
-      license: HolonetRelay.License.license_text
+      license: HolonetRelay.StaticText.license
   end
 end

@@ -2,11 +2,6 @@ defmodule HolonetRelay.LayoutView do
   use HolonetRelay.View
 
   def last_updated_at do
-    {year, month, day} = HolonetRelay.Messages.newest_timestamp
-
-    [year, month, day]
-      |> Enum.map(&Integer.to_string/1)
-      |> Enum.map( &(String.rjust(&1, 2, ?0)) )
-      |> Enum.join("-")
+    HolonetRelay.StaticText.timestamp
   end
 end
