@@ -3,14 +3,16 @@ senderkey: *5kHNN#:0:808/45
 mode: promiscuous
 receivedby: Corellian:Corellian:CenterpointNorth
 datereceived: 37:12:23
-subject: [HNN] SCANDAL ON ARKANIS!
+subject: [HNN] POLITICAL CRISIS ON ARKANIS!
 ------
-ARKANIS CITY - Scandal erupted on Arkanis when Councillor Sinoca Silvari (VOA) was accused by a political rival, Councillor Gilden Krohst (RM), of involvement in a scheme to blackmail him. While the events are clearly criminal in nature, the Council has no provision for suspension of office for questions of ethics. After an intervention from the Office of the Moff to resolve this crisis, Sinoca Silvari agreed to resign immediately and accept a lifetime ban on holding office within the Empire in exchange for any criminal charges being dropped.
+ARKANIS CITY - A political crisis rocked the Arkanis Council over the past two days when a scandal blossomed into a government standoff that required Moff Julstan’s intervention to resolve. In its wake, Councillor Sinoca Silvari has resigned and accepted a lifetime ban from holding elected office within the Empire but will face no criminal charges.
 
-Details are still emerging but the drama began when Mr. Krohst played a recording of someone looking like him buying and using the drug Glitterstim at a local bar before heading off into a night of revelry. Mr. Krohst called several citizens to corroborate including the lookalike imposter in question as well as the stim dealer on the tape, Speng. All parties in question identified Ms. Silvari as the impetus behind these events.
+Scandal erupted at Question Time when Councillor Krohst (RM) introduced almost two hours of citizen testimony that implicated Councillor Silvari (VNA) in a scheme to blackmail him. While it remains unclear how Mr. Krohst obtained testimony from drug dealers and known criminals, Silvari’s colleagues within the VNA took it seriously enough to suspend Question Time. Ultimately it required an emergency intercession by the Office of the Moff to broker peace in the council chambers by offering Ms. Silvari clemency to return the VNP to the council and close the legal loopholes that created the political crisis.
 
-Ms. Silvari, previously rumored to be on the shortlist for Councillor of the Small, remains seemingly unphased. “My entire life has been one of public service. There are many ways to serve, and only some of them require holding an elected office. I will continue to better the public good and thwart the wrongdoers of society regardless of my station.” Indeed, one unnamed source mentioned that her services are already being solicited as a private political consultant.
+Mr. Krohst and Moff Julstan have so far been unavailable for comment, although the Office of the Moff released a statement emphasizing their desire to “work with the government of Arkanis to restore not just the peace but the rule of law.”
 
-While Moff Julstan was unavailable for comment, his office released the following statement: “Arkanis has a long, proud tradition of democratic self-governance. When gaps in those traditions are exposed through events such as these, the Empire is happy to intervene as mediator. We will work with the government of Arkanis to restore not just the public peace but the rule of law.”
+Ms. Silvari was more forthcoming in a late-evening press conference that ran into the morning. “They say the best revenge is living well and doing good. Well, I’ll be the judge of that. There are many ways I can work to the benefit of society. Few require an elected office.” According to one unnamed source, Ms. Silvari is already making good on her statement. A week earlier she was rumored to be on the shortlist for Councillor of the Small; now her services are already being solicited as a private political consultant.
 
-[STORY CONTINUES IN HNN/ARKANIS]
+This is hardly the first time in the spotlight for Councillor Silvari…
+
+{--  STORY CONTINUES IN HNN/ARKANIS PREMIUM. FREE TRIAL AVAILABLE!  --}
