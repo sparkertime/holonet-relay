@@ -13,7 +13,7 @@ defmodule HolonetRelay.Messages do
     {:ok, groups} = File.ls(folder_path)
 
     Enum.map groups, fn(group) ->
-      path = Path.join(folder_path, groups)
+      path = Path.join(folder_path, group)
 
       %{group: group,
         path: path,

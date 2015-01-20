@@ -1,0 +1,12 @@
+groups: gov.core.corellia
+senderkey: *FSmN(:0:111/903
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 37:12:22
+subject: Travel Advisory - Funeral of Jaa Halcorr
+------
+Be advised that due to the high level of interest through the sector in the funeral of Baron Jaa Halcorr tomorrow, docking and undocking at Centerpoint may take as long as 8-10 hours and may require a congestion surcharge on dockage fees. Departures who can complete all preliminary questionnaire questions will be given higher departure priority.
+
+Thank you in advance for your patience.
+> Division of Ports and Visitation
+> Federation of Double Worlds Executive Secretariat

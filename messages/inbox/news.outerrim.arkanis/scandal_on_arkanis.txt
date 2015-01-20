@@ -1,0 +1,16 @@
+groups: news.outerrim.arkanis
+senderkey: *5kHNN#:0:808/45
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 37:12:23
+subject: [HNN] SCANDAL ON ARKANIS!
+------
+ARKANIS CITY - Scandal erupted on Arkanis when Councillor Sinoca Silvari (VOA) was accused by a political rival, Councillor Gilden Krohst (RM), of involvement in a scheme to blackmail him. While the events are clearly criminal in nature, the Council has no provision for suspension of office for questions of ethics. After an intervention from the Office of the Moff to resolve this crisis, Sinoca Silvari agreed to resign immediately and accept a lifetime ban on holding office within the Empire in exchange for any criminal charges being dropped.
+
+Details are still emerging but the drama began when Mr. Krohst played a recording of someone looking like him buying and using the drug Glitterstim at a local bar before heading off into a night of revelry. Mr. Krohst called several citizens to corroborate including the lookalike imposter in question as well as the stim dealer on the tape, Speng. All parties in question identified Ms. Silvari as the impetus behind these events.
+
+Ms. Silvari, previously rumored to be on the shortlist for Councillor of the Small, remains seemingly unphased. “My entire life has been one of public service. There are many ways to serve, and only some of them require holding an elected office. I will continue to better the public good and thwart the wrongdoers of society regardless of my station.” Indeed, one unnamed source mentioned that her services are already being solicited as a private political consultant.
+
+While Moff Julstan was unavailable for comment, his office released the following statement: “Arkanis has a long, proud tradition of democratic self-governance. When gaps in those traditions are exposed through events such as these, the Empire is happy to intervene as mediator. We will work with the government of Arkanis to restore not just the public peace but the rule of law.”
+
+[STORY CONTINUES IN HNN/ARKANIS]
