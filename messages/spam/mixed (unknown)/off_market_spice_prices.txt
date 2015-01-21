@@ -1,4 +1,4 @@
-groups: unknown (mixed)
+groups: unknown (mixed), rec.history.maw.*
 mode: promiscuous
 receivedby: Corellian:Corellian:CenterpointNorth
 datereceived: 37:12:23
