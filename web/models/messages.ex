@@ -1,6 +1,6 @@
 defmodule HolonetRelay.Messages do
   def folders do
-    Enum.map ["inbox", "archive"], fn(folder) ->
+    Enum.map ["inbox", "archive", "spam"], fn(folder) ->
       path = "messages/#{folder}"
 
       %{folder: folder,
