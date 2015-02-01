@@ -14,9 +14,9 @@ Now you can visit `localhost:4000` from your browser.
 ## Deploying to Heroku
 
 ```
-> heroku app:create YOURNAMEHERE
-> heroku stack:set cedar #phoenix is not yet Cedar-14 compatible
-> heroku config:add MIX_ENV=prod BUILDPACK_URL=https://github.com/HashNuke/heroku-buildpack-elixir.git#cedar-14-unzip-fix
+> heroku apps:create YOURNAMEHERE
+> heroku stack:set cedar
+> heroku config:set MIX_ENV=prod BUILDPACK_URL="https://github.com/HashNuke/heroku-buildpack-elixir.git"
 > git push heroku master
 ```
 
