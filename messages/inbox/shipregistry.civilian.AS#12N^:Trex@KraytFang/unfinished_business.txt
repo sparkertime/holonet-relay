@@ -1,0 +1,13 @@
+groups: shipregistry.civilian.AS#12N^
+senderkey: O_0xn$L:2:855/40
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:2:24
+subject: Unfinished Business.
+------
+Rak’chanwaa and I may not have had the greatest of partnerships, but that doesn’t mean I will quickly forgive when someone hauls her off into a freighter, never to be seen again.
+
+I take the fact that your Krayt Fang seems to have fallen off the grid after our encounter as a sign that you are running scared. Good. If the Wookiee is still alive then you still have the chance to make amends though. I’ll be taking some downtime at the on Nar Shaddaa in two weeks’ time to meet up with a new crew. I’ll check in periodically at the Meltdown Cafe. It’s a safe place - you’ll face no harm from me while there.
+
+Don’t show and I’ll put a bounty on you myself.
+Do’mesh

@@ -1,0 +1,22 @@
+groups: gov.outerrim.nilgaard
+senderkey: klo(m,,:1:099/120
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:2:11
+subject: The Outer Rim: Be Advised!
+------
+Visitors to the Outer Rim!
+
+Reports of unfortunate incidents from civilians traveling to the Galactic North and Northwestern parts of the galaxy have risen in recent months. While the Outer Rim can be a fun and exhilarating place to visit, please keep a few safety precautions in mind when traveling:
+
+* Stick to the known hyperspace lanes. While nebulas, uncolonized worlds, and other natural phenomena can be a breathtaking sight to behold, they are often prime hiding spots for pirates (or worse, rebels).
+* If you are traveling to see some of the flora and fauna of the outer rim, be sure to take an experienced guide with you. We’ve seen a number of run-ins with local wildlife on exotic planets lately - do not underestimate a savage beauty!
+* Rumor and speculation run wild in the Outer Rim. Tales of vast, lost treasures are just as common as the travelers who are taken in by them. Remember: Anything that sounds too good to be true probably is and should be reported to the local Imperial Field Office.
+
+The Nilgaard, Colindra, Pakuuni, and Chorlian sectors are fantastic places to visit and are extremely tourist-friendly despite the warnings above. For your safety, we encourage visitors to travel and to check in with their local Imperial Civilian Assistance Bureau during their travels.
+
+We’re here to help. Be seeing you!
+
+Imperial Civilian Assistance Bureau
+Operating under the auspices of the Office of Moff Torpin
+Portcullis Row, Emmer

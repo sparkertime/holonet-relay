@@ -1,0 +1,18 @@
+groups: news.outerrim.anoat
+senderkey: *5kHNN#:0:201/21
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:3:12
+subject: [HNN] CHAOS AMONGST THE CLOUDS!
+------
+CLOUD CITY, BESPIN - Six hours of chaos in the underbelly of Cloud City, the floating metropolis in the clouds of the gas giant Bespin, left over a dozen dead and wounded and the lower levels completely sealed off.
+
+[IMAGE ALT=“You can see smoke erupting from one of the underside maintenance tunnels of Cloud City as Wing Guard crews work to contain the damage”]
+
+Details are still emerging, but it seems like a team of mercenaries ran roughshod throughout the lower levels of Cloud City for reasons unknown. The central figure of the events and suspected leader of this group of mercenaries, a Trandoshan named “Trex” insists that he is the victim as well in some kind of kidnapping / blackmail scheme. This is plainly contradicted by the facts - several monitors prominently show a Trandoshan matching his description tearing through restricted parts of Cloud City, and several eyewitness accounts have pegged Trex as the main instigator of events.
+
+Uncharacteristically, the Cloud City Wing Guard has brought in Imperial Investigators to help sort out the mystery behind the cause and scale of these events. While Cloud City maintains neutrality in current events, Baron Administrator Lando Calrissian was glad to turn over Trex and accept Imperial help for this specific case. Trex has been sent to an Imperial Prison while he awaits trial for these events.
+
+While the mastermind of this havoc seems to have been apprehended, authorities are still asking for public help in identifying a YT-1300 freighter which was somehow involved in these events. If you have any knowledge of this ship, the “Despairing Success,” or its crew, you are urged to contact the Wing Guard at gov.misc.anoat.bespin.kGwpR%@:TrexTipLine
+
+{--  STORY CONTINUES IN HNN/ANOAT PREMIUM. FREE TRIAL AVAILABLE!  --}
