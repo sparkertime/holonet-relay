@@ -1,4 +1,4 @@
-groups: shipregistry.civilian.zzp8%$z
+groups: shipregistry.civilian.ZZT<Q6#
 senderkey: B5&jkj99:a:909/52
 mode: promiscuous
 receivedby: Corellian:Corellian:CenterpointNorth
