@@ -1,0 +1,33 @@
+groups: shipregistry.civilian.ZZT<Q6#
+senderkey: FV5^MPM:1:40/630
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:5:25
+subject: You’re Popular
+------
+Friends:
+
+Sounds like you’re still raising the hells out there after Cloud City.
+
+Something came up in the course of work that I think you’ll be interested in. I’ve included a sneak preview here, but the full thing will cost you 10,000 credits if you want it. Sorry to charge but I’m running a risk by sharing this, and my operation isn’t exactly self-sufficient. 5,000 gets you the transcript, and a 5,000 downpayment keeps me watching for followups.
+
+Let me know.
+Merriweather
+
+-- <TRANSCRIPT OF ATTACHED AUDIOTAPE FOLLOWS> --
+
+<muffled music can be heard in the background, as if through a wall. It is otherwise quiet.>
+
+UNKNOWN HUMAN MALE (H): And this last one, this is considered red by the clan.
+
+UNKNOWN BOTHAN FEMALE (B): Usual expenditure terms for a red?
+
+H: Yes, commensurate to what you bring in, of course.
+
+B: Of course. Tell me what you know so far.
+
+H: A YT-1300 called the “Triumphant Failure.” It’s host to a crew of at least 5 according to our source - a Human, Chiss, Twi’lek, Trandoshan, and a Sullustan.
+
+B: Sounds like a real Republican Senate there. Should make this easier. What do you have on the occupants?
+
+-- <TRANSCRIPT ENDS> --

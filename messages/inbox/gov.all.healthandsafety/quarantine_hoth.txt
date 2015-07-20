@@ -1,0 +1,15 @@
+groups: gov.all
+senderkey: 0000001:1:10/10
+mode: promiscuous
+receivedby: CorpSec:StoyerPavaadMiningConglomerate:Any
+datereceived: 38:6:8
+subject: Quarantine: Hoth
+------
+ATTENTION
+
+An outbreak of the deadly plague Brainrot has overtaken the planet Hoth. It is believed to have started when a group of Rebels released an unused biological weapon left by the Confederacy.
+
+All travel to Hoth has been suspended and an Imperial Fleet is safeguarding the planet until further notice.
+
+Imperial Health & Safety
+GovCenter 15, #AA-51 Coruscant

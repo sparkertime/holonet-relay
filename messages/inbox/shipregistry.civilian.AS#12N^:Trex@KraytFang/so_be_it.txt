@@ -1,0 +1,11 @@
+groups: shipregistry.civilian.AS#12N^
+senderkey: O_0xn$L:2:855/40
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:6:1
+subject: So be it
+------
+It’s been two weeks’ of quality time at Meltdown with no sign of you. I should have guessed your cowardice would continue.
+
+Our actions catch up to us all eventually. Be seeing you.
+Do’mesh
