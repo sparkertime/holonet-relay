@@ -1,0 +1,69 @@
+groups: shipregistry.civilian.ZZT<Q6#
+senderkey: FV5^MPM:1:40/630
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:6:02
+subject: Your Transcript
+------
+
+Payment received for the transcript. Still a small window if you want to put in that downpayment for future work we discussed. -MW
+
+---
+
+UNKNOWN HUMAN MALE (H): And this last one, this is considered red by the clan.
+
+UNKNOWN BOTHAN FEMALE (B): Usual expenditure terms for a red?
+
+H: Yes, commensurate to what you bring in, of course.
+
+B: Of course. Tell me what you know so far.
+
+H: A YT-1300 called the “Triumphant Failure.” It’s host to a crew of at least 5 according to our source - a Human, Chiss, Twi’lek, Trandoshan, and a Sullustan.
+
+B: Sounds like a real Republican Senate there. Should make this easier. What do you have on the occupants?
+
+…
+
+H: First, the human. Called himself “Deserick” or somesuch. Big talker, everyone had something to say about this guy. Multiple sources mention him having done prison time. There’s enough truth in these stories that I’d guess he has actually done time or is a talented liar.
+
+B: Or both.
+
+H: <grunting approval> He talked up his smuggling abilities, but no real idea what he does for credits. That’s about it.
+
+B: Got it. We’ll tap into our prison networks, see what we can dig up. Who’s next?
+
+H: Well, details become even thinner after that.
+
+B: You wouldn’t need us if it were otherwise.
+
+H: Sure. The Trandoshan with him is big, even for a lizard. Carried a giant, tricked out carbine so odds are he’s some kind of professional.
+
+B: Hrm. That’s true of most any lizard who left Dosh, but I’ll see what we can do.
+
+H: The Twi’lek just turned in a bounty while they were on Stoyer-Pavaad so we have some good info on her. Registered as “Oskara” and also pretty handy with a rifle from the sounds of it. Guessing she’s been in that line of work for awhile.
+
+B: Ah, a stroke of good luck.
+
+H: The last bit of it, I’m afraid. Details are sketchier on the last two. A male Chiss, name unknown, and the group’s pilot, a young Sullustan that our contact is pretty sure is female.
+
+B: <laughing> I’ve mistaken genders on a Gand now and again, but Sullustans aren’t *that* hard. Tell your contact to study up next time. Anything else?
+
+H: Just one other thing. Our contact mentioned the ship was outfitted for slaving.
+
+B: A YT-1300 slave ship? Huh. Don’t often hear slavers running small loads. Must be running some special cargo.
+
+H: Must be.
+
+B: That’s it? No last location or whereabouts even though you have a source that has apparently seen the interior of their ship?
+
+<pause>
+
+B: Tell me or don’t. We’ll find out either way, but we only bill you in the latter case.
+
+H: Alright, last seen in at a backwater CorpSec mining colony called Stoyer-Pavaad.
+
+B: Thanks. Okay, this is good for now, we have a few angles to work. I’ll signal you to meet when we have something. <silence> Sounds like it will be one hell of a bounty.
+
+H: No bounties.
+
+B: Oh. Yeah, sure, you got it.
