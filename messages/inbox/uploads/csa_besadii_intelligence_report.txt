@@ -1,0 +1,61 @@
+3.06.22.13
+subject: CorpSec Besadii Intelligence Dossier, 28:01 - 36:01
+
+---------------
+*** WARNING ***
+---------------
+
+This document is classified SECLEVEL SMARAGDINE and higher. Reading this document without proper clearance is a violation of the CorpSec Governance Council F.R.E.E.DOM Motion. Violators will be subject to defiltration.
+
+//TODO - requires data-at-rest encryption. DO NOT REPLICATE TO OFFSITE BACKUPS UNTIL THIS IS DONE.
+
++-+-+-+-+-+-+-+-+-+-+-+
+
+(This dossier continues the high-level overview of CSA’s Besadii clan intelligence briefings. Open <3.06.22.12 <<link_missing>>> for previous installments.)
+
+
+# New Figures in Clan Besadii Post-Ylesia
+
+THE GOALS OF the Rebel Alliance remain unclear in their assault on Ylesia. The battle clearly played to the interests of the Desilijic (see <Desilijic Intelligence Briefings <<link_missing>>> or <Jabba Desilijic Tiure <<link_missing>>> for more). While it is unclear how the Rebels benefitted from the assault, Clan Besadii was clearly devastated in the battle.
+
+Losing Ylesia’s spice mining operations left Besadii financially desperate and cost their seat on the Hutt Ruling Council. While they remain the biggest spice dealers in the galaxy, post-Ylesia they were no longer able to set the market price singlehandedly. In CorpSec alone, spice prices fell roughly 10% in the months after Ylesia.
+
+(NOTE: Stoyer-Pavaad is an outlier - spice prices on S-P dropped approximately 40% post-Ylesia. There is no data to explain this. Stoyer’s Administrator Nash is heading up a funded study to investigate further.)
+
+While the fall of Ylesia had a number of effects on the Besadii Clan as a whole, this dossier profiles the new major figures in Besadii that are of interest to CorpSec intelligence personnel.
+
+## Mohsh Besadii Gyoonta
+
+EACH HUTT CLAN retains an Emissary, a member of the Clan whose function is to travel the galaxy amongst other, “lesser” species. This Emissary acts as that clan’s ambassador and representative. This is typically a designation of little merit - since Hutts consider all other species inferior, the posting of Emissary grants limited political capital.
+
+This makes Besadii’s Emissary, Mohsh Besadii Gyoonta (hereafter just the familiar “Mohsh”), a curious & noteworthy figure. Prior to Ylesia, Mohsh is practically absent from the clan’s communications. Within weeks though, Mohsh’s name is mentioned frequently, usually in connection with requests or approvals for internal loans or financial assistance. Since Emissaries typically have almost no direct role in any obvious enterprises of Clan Besadii.
+
+### Tangent: Income (SPECULATION - CORROBORATION NEEDED)
+
+IT IS HIGHLY likely that Mohsh has some control or connection to a source of a significant credits flowing into the Besadii clan. Based on travel records obtained by CSA intelligence agents, we believe the income controlled by Mohsh the following likelihoods of connection to other major organizations:
+
+* Black Sun (65% probability)
+* Rebel Alliance (25% probability)
+* Zann Consortium (9% probability)
+
+### Biographical Overview
+
+* Maintains primary residence in Hotel Yarith, Cloud City. Travel abroad is common for an Emissary; significant living arrangements outside of Hutt Space are not.
+* Major allies:
+** Durga Besadii Tai, the Lord of Clan Besadii. Like Mohsh’s rise to prominence, this seems to be a recent development.
+** Plakot Qunaalac Roonsl. Mohsh recently helped identify new suppliers for Qunaalac’s heavy manufacturing operations, overseen by Plakot.
+* Major rivals:
+** Madod Besadii Arvala. Third-in-succession of Clan Besadii. Frequent critic of Durga’s handling of Ylesia affair. Recently deceased, suspected Black Sun assassination.)
+** Loyood Gorensla Theeta (both Clan Gorensla and Clan Besadii take an active interest in smuggling as well as legitimate shipping operations. Loyood seems to have disrupted recent Besadii smuggling enterprises while Mohsh has done the same for some limited legimiated shipping engagements through mid-rim territories.)
+** N’oos Sliorn (Black Sun Vigo - the exact nature of tensions between Sliorn and Mohsh are unknown, but several communications reference an “Oubliette”)
+
+### Notes of Interest
+* Mohsh is known to maintain a collection of swoop bikes somewhere on Kor Besadii. Several communiques mention a particular interest in vintage Lhosan swoopbikes from the Old Republic era. (NOTE: it is curious that a Hutt is interested in swoops since they are several times too massive to effectively use one)
+* Mohsh fired his last Majordomo, a Sakiyan named “Darjas Sal,” over what seemed to be an incident regarding jerked dewback meat on Tatooine.
+* Mohsh is one of the few Hutts to speak directly in Basic. Combined with an abundance of non-Hutt visitors recorded to his Penthouse on Cloud City, it is probable that he has some kind of species-specific fetish.
+
+## Rokko Besadii Natat
+
+Rokko is head of Besadii’s operations on Corusca-
+
+<<upload limit exceeded>>
