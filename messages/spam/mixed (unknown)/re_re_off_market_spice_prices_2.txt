@@ -1,7 +1,0 @@
-groups: unknown (mixed), rec.history.maw.*
-mode: promiscuous
-receivedby: Corellian:Corellian:CenterpointNorth
-datereceived: 38:6:01
-subject: RE: RE: OFF-MARKET SPICE PRICES
-------
-unsubscribe pleeze.
