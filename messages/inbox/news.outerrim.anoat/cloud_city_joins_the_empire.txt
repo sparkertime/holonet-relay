@@ -1,0 +1,14 @@
+groups: news.outerrim.anoat
+senderkey: *5kHNN#:0:201/21
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:07:11
+subject: [HNN] CLOUD CITY JOINS THE EMPIRE!
+------
+CLOUD CITY, BESPIN - The residents of Cloud City breathe a sigh of relief as Imperial reinforcements bring an end to two days of chaos in the skies of Bespin. The drama began as Lando Calrissian triggered a citywide panic just to cover his escape from Cloud City for reasons that still remain unknown. Throughout the city, residents were told to flee on whatever vessel they could find. In the chaos that ensued, untold numbers of civilians were injured and storefronts looted.
+
+Thankfully, the will of the people reigns supreme over tyrants in Bespin. Within hours, the city council selected a new Baron Administrator whose first act in office was to formally request Imperial aid in restoring order and normality. The Empire welcomes Cloud City in the following statement by the sector’s Moff, Karl Ressol:
+
+“Cloud City has been a thriving center of art, commerce, and culture for thousands of years. We are delighted to work with the people of Bespin in continuing and expanding these grand traditions under the security and safety of Imperial oversight. We are already sending Imperial Cultural Advisors to Bespin to discuss how we can better promote Bespin within the Empire. Let the new Golden Age of Cloud City be known throughout the Empire and beyond!”
+
+{--  STORY CONTINUES IN HNN/ANOAT PREMIUM. FREE TRIAL AVAILABLE!  --}
