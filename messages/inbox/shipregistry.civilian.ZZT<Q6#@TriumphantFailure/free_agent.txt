@@ -1,0 +1,80 @@
+groups: shipregistry.civilian.ZZT<Q6#
+senderkey: FV5^MPM:1:40/630
+mode: promiscuous
+receivedby: Corellian:Corellian:CenterpointNorth
+datereceived: 38:7:17
+subject: Another Transcript
+------
+
+Another transcript. I hate to charge, but I hope you know you’re funding good intelligence work and not my retirement fund. Stop by anytime for some sticky noodles. -MW
+
+---
+
+UNKNOWN BOTHAN FEMALE (B): Welcome back, Wintide.
+
+HUMAN MALE (PRESUMABLY “WINTIDE”) (H): Forgive my curtness; busy times. What do you have on our friends?
+
+B: Sure. First, this ship you mentioned, the YT-1300 slaver. You’ll love this - we think it’s basically one of yours that went missing close to a year ago now.
+
+<pause>
+
+B: Yeah, I know. It’s probably previously the “Krayt Fang,” a custom slaver that belonged to one Trandoshan named “Trex” working under Teemo, one of yours, on Tatooine. Now before you get excited that this might be your Trandoshan, this Trex has been rotting deep in some Imperial hells-hole after an incident on Cloud City.
+
+H: Lucky for him. Anywhere else…
+
+B: Yeah, I can’t imagine the Clan will be too happy with him. Anyway, I’ll send you the full background on this Cloud City incident - it’s a bizarre story about some mercenaries and a kidnapping. Unless your friends are into some serious military action, it’s probably not them.
+
+H: Fine. What else?
+
+B: So, this ship leads us to that Sullustan pilot of “indeterminate” gender you mentioned. One of the last ports of call for the Krayt Fang before it went off the grid was on this backwater, Arkanis. Sullustans turn out to be pretty rare there. Now we don’t know anything for certain yet, but a registered contractor, a Wookiee named “Lowhhrick,” declared a Sullustan female passenger when docking at Arkanis not long before the Krayt Fang’s arrival. He didn’t leave with this passenger though, so they must have parted ways. We’re asking around for Sullustan pilots on Arkanis in case we’re wrong, but I’d place good odds on this being your person.
+
+H: Seems pretty thin, but we’ll take whatever contact information you have on the Wookiee and follow that up ourselves.
+
+B: Okay, sure. I know it sounds pretty coincidental, but these coincidences keep popping up. Case in point: we were doing background on Sullust for possible connections from this mystery pilot to your other persons of interest, right? Turns out that Sorosuub used to employ a Trandoshan by the name of “Khron” as personal protection.
+
+H: Even for this, that is weak. Surely they employ hundreds, if not thousands, of Trandoshans for just that purpose. Can’t be rare on Sullust.
+
+B: We thought so too. But we used our contacts in the corp to pull his employment records just in case. This one lizard, he gets his employment terminated after a major security breach on his watch. Leaves Sullust in disgrace. Guess where his last paycheck is sent to? Arkanis! He picked up not long before the Krayt Fang shows up and then, poof! This Khron goes off the grid too.
+
+H: Still, this is especially meagre for you. We’ll dig on that Wookiee but this is hardly worth my time.
+
+B: Agreed, we’re still at work on those two. I’m not satisfied yet either. Let’s talk about some exciting developments though. Oskara, the bounty hunter? Ideally she turns in another bounty in which case we have her whereabouts, but until then we’re still turning up some gold. Case in point: talking to the Guild, someone tried to place a bounty on her not long ago, another Twi’lek named Do’mesh. The Guild rejects it since it’s a bounty on a bunter hunter with thin evidence, but that still gives a point of contact for this Do’mesh character. Lots of hits there, he’s not nearly as careful as your friends. You’ll be in touch within the week, I’m sure.
+
+H: Good. Let’s move this along though and skip the narratives here, please. I can read that in the full summary. I’m in a hurry.
+
+B: Sure, just the highlights then. This human, Desric? Seems to have indeed done some time like you thought. A couple of sentences here and there for theft, all small time though which is surprising. Has a reputation for being a player, if not necessarily big time. We’re combing through the prison networks where he was to see what we turn up.
+
+H: And the Chiss?
+
+B: We’re ninety-five percent sure we found your man. A slicer who goes by the name “Kaibe.” No idea on the real Chiss name yet. A slicer with some pirate outfit who until recently called the planet Lok home. Seems to have split sometime in the past few months - our guess is that he’s credits-for-hire to someone else in your group.
+
+H: You seem sure on this. <pause> The report’s unclear here - how’d you make the connection?
+
+B: Divulging that puts our source in this pirate network at risk. We’re still looking for a connection that we can share - until then, you just have to take our word for it.
+
+H: Ninety-five percent of your word, you mean. Anything else?
+
+B: Look, one last thing. You mentioned no bounties previously. We’ve already taken this contract so of course we’ll keep digging. But if you’re not placing bounties and this is somehow connected to the Matraad, then you need to make sure that we, and no one else in the galaxy, ever catches wind of that.
+
+H: Of course.
+
+B: I’m serious. If word gets out that talking to a Bothan means putting someone on a Hutt list, that’s bad for business. It makes providing our services much harder. Make sure we never have to know that, okay?
+
+H: I understand you. Now goodbye.
+
+<long pause>
+<some kind of beeping>
+
+B: He just left. This Kaibe story isn’t going to hold up very long.
+
+B: Look, I know Dza’tey has taken an interest in this one personally. But he needs to wrap up his investigation into this Mathus, yesterday.
+
+<long pause>
+
+B: But the Hutts are going to find out Kaibe is dead soon. When they do, they’re going to ask how we missed it. I need to have an answer by then. <chuckles> Or a new life.
+
+<long pause>
+
+B: Thanks. That’s all I’m asking. I’ll keep you posted.
+
+<some kind of beeping>
